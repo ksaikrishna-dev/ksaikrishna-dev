@@ -30,7 +30,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kodisaikrishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kodisaikrishna" height="30" width="40" /></a>
+<a href="https://twitter.com/kodisaikrishna" target="__blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kodisaikrishna" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kodisaikrishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kodisaikrishna" height="30" width="40" /></a>
 <a href="https://fb.com/kodisaikrishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kodisaikrishna" height="30" width="40" /></a>
 <a href="https://instagram.com/sai_krishna_kodi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sai_krishna_kodi" height="30" width="40" /></a>
